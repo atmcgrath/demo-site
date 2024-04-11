@@ -1,8 +1,12 @@
 ---
 ---
 
-@import "{{ site.theme}} ";
+@import "{{ site.theme }} ";
 
 h1 {
-  text-color: pink;
+  color: pink;
+}
+
+h2 {
+  color: pink;
 }
