@@ -3,10 +3,17 @@ layout: default
 title: Axolotl
 ---
 
-## Welcome to my site!
+## Welcome!
 
 I'm Captain Janeway the Axolotl. Thanks for visiting my website!
 
 ![A pink axolotl](https://alicemcgrath.digital.brynmawr.edu/simple-site/images/janeway.jpg)
 
+## Bio
 
+I live in an aquarium and eat crickets. I prefer the large ones. Hunting for crickets is one of my favorite activities.
+
+## Projects
+
+- Here's an example of my work
+- And another example
