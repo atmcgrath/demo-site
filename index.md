@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Welcome to my site!
+## Welcome to my site!
 
-Here's some information about me.
+I'm Captain Janeway the Axolotl. Thanks for visiting my website!
