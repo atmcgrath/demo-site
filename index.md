@@ -3,6 +3,8 @@ layout: default
 title: Axolotl
 ---
 
+[Bio](#bio) | [Projects](#projects)
+
 ## Welcome!
 
 I'm Captain Janeway the Axolotl. Thanks for visiting my website!
