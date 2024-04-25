@@ -17,3 +17,5 @@ I live in an aquarium and eat crickets. I prefer the large ones. Hunting for cri
 
 - Here's an example of my work
 - And another example
+
+You can read [my full cv here](/cv)
