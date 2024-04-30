@@ -22,4 +22,6 @@ Here's a change I made.
 - Here's an example of my work
 - And another example
 
-You can read [my full cv here](/cv)
+You can read [my full cv here]({{ site.baseurl }}/cv)
+
+Or will this [link to my cv](cv) work?
